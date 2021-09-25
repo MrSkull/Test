@@ -1,0 +1,163 @@
+body {
+	background-color: #7791FB;
+}
+.hdnm {
+	font-size: 46px;
+	font-family: 'Segoe UI2';
+	text-transform: uppercase;
+	display: inline-block;
+	margin-left: 148px;
+	margin-right: 146px;
+	vertical-align: middle;
+	color: #FFFFFF;
+}
+.hdtxt {
+	font-size: 20px;
+	font-family: 'Segoe UI2';
+	text-transform: capitalize;
+	display: inline-block;
+	margin-right: 30px;
+	vertical-align: middle;
+	color: #FFFFFF;
+}
+.hddiv {
+	display: inline-block;
+    margin-left: 140px;
+    margin-right: 139px;
+    margin-top: 18px;
+    text-transform: uppercase;
+    font-family: 'Segoe UI2';
+    font-size: 20px;
+    background-color: #4CB5FF;
+    width: 156px;
+    height: 42px;
+    vertical-align: middle;
+    color: #FFFFFF;
+
+}
+.satauri {
+	font-family: 'Segoe UI';
+	font-size: 56px;
+	text-transform: capitalize;
+	width: 550px;
+	float: left;
+	margin-left: 148px;
+	margin-top: 90px;
+	color: #FFFFFF;
+}
+.satauriqveda {
+	font-size: 16px;
+	font-family: 'Segoe UI2';
+	margin-top: 31px;
+	float: left;
+	color: #FFFFFF;
+}
+.banner {
+	color: #FFFFFF;
+	float: right;
+	margin-left: 57px;
+	width: 500px;
+	height: 500px;
+}
+.clear {
+	clear: both;
+}
+
+.getbox {
+	background-color: #1E2147;
+	float: left;
+	margin-left: 148px;
+	margin-top: 22px;
+	font-family: 'Segoe UI2';
+	color: #FFFFFF;
+	width: 181px;
+	height: 42px;
+}
+.pirveli {
+	display: inline-block;
+}
+.2nd {
+	display: inline-block;
+}
+.meoresatauri {
+	font-family: 'Segoe UI';
+	font-size: 36px;
+	color: #7976FC;
+	margin-left: 343px;
+	margin-right: 343px;
+	margin-top: 185px;
+}
+.meoretexti {
+	font-family: 'Segoe UI';
+	font-size: 16px;
+	color: #000000;
+	margin-left: 301px;
+	margin-right: 294px;
+	margin-top: 19px;
+}
+
+.bottombox {
+	background-color: white;
+	height: 341px;
+}
+
+.iconebi {
+	margin-top: 57px;
+	margin-left: 236px;
+}
+.qvedatext1 {
+    display: inline-block;
+    font-family: 'Segoe UI2';
+    font-size: 20px;
+	font-weight: bold;
+    margin-left: 236px;
+    margin-top: 20.3px;
+
+}
+.qvedatextv1 {
+	font-family: 'Segoe UI2';
+	font-weight: bold;
+	font-size: 20px;
+    margin-left: 280px;
+
+}
+.qvedisqveda1 {
+	display: inline-block;
+	margin-left: 150px;
+	margin-top: 20px;
+	vertical-align: middle;
+	font-family: 'Segoe UI2';
+	font-size: 16px;
+}
+.qvedisqveda2 {
+	display: inline-block;
+	margin-left: 110px;
+	margin-top: 20px;
+	vertical-align: middle;
+	font-family: 'Segoe UI2';
+	font-size: 16px;
+}
+}
+.qvedisqveda3 {
+	display: inline-block;
+	margin-top: 20px;
+    margin-left: 115px;
+    vertical-align: middle;
+    font-family: 'Segoe UI2';
+	font-size: 16px;
+}
+}
+.qvedisqveda4 {
+	display: inline-block;
+	margin-left: 90px;
+	margin-top: 20px;
+	vertical-align: middle;
+	font-family: 'Segoe UI2';
+	font-size: 16px;
+}
+}
+
+.qvedaganyofileba {
+	background-color: white;
+	height: 333px;
+}
