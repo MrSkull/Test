@@ -149,6 +149,9 @@ body {
 }
 .meotxeseqcia {
     height: 183px;
+    width: 100%;
+    vertical-align: middle;
+    overflow: hidden;
 }
 .meotxesatauri {
 	text-transform: capitalize;
@@ -157,6 +160,7 @@ body {
 	float: left;
 	color: white;
 	margin-left: 140px;
+	margin-bottom: 67px;
 }
 .meotxebox {
 	background-color: #1E2147;
@@ -166,8 +170,16 @@ body {
 	color: white;
 	float: right;
 	margin-right: 140px;
-
+	margin-bottom: 67px;
 }
+.creditcard {
+    float: right;
+    font-family: 'Segoe UI2';
+    font-size: 16px;
+    color: white;
+}
+
+
 .mexutesatauri {
 	font-size: 36px;
 	font-family: 'Segoe UI';
@@ -183,6 +195,7 @@ body {
 .mexuteseqcia {
 	background-color: white;
 	height: 877px;
+	padding-top: 91px;
 }
 .surati1 {
 	width: 842px;
