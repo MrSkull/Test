@@ -145,13 +145,15 @@ body {
 	height: 178px;
 }
 .mesameseqcia {
-	height: 334px;
+	height: auto;
+	overflow: hidden;
 }
 .meotxeseqcia {
     height: 183px;
     width: 100%;
     vertical-align: middle;
     overflow: hidden;
+    padding: 60px;
 }
 .meotxesatauri {
 	text-transform: capitalize;
@@ -159,8 +161,10 @@ body {
 	font-size: 36px;
 	float: left;
 	color: white;
-	margin-left: 140px;
-	margin-bottom: 67px;
+}
+.boxcard {
+	width: 190px;
+	float: right;
 }
 .meotxebox {
 	background-color: #1E2147;
@@ -169,8 +173,6 @@ body {
 	text-transform: uppercase;
 	color: white;
 	float: right;
-	margin-right: 140px;
-	margin-bottom: 67px;
 }
 .creditcard {
     float: right;
