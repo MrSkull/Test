@@ -1,6 +1,7 @@
 body {
 	background-color: #7791FB;
 }
+/*Header Style*/
 .hdnm {
 	font-size: 46px;
 	font-family: 'Segoe UI2';
@@ -34,6 +35,7 @@ body {
     vertical-align: middle;
     color: #FFFFFF;
 
+/*Body*/
 }
 .satauri {
 	font-family: 'Segoe UI';
@@ -100,8 +102,4 @@ body {
 	background-color: white;
 	height: 341px;
 }
-
-.iconebi {
-	margin-top: 57px;
-	margin-left: 236px;
-}
+/*Sul Qveda Xazi*/
