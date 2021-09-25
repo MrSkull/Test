@@ -144,3 +144,49 @@ body {
 .meoreseqcia {
 	height: 178px;
 }
+.mesameseqcia {
+	height: 334px;
+}
+.meotxeseqcia {
+    height: 183px;
+}
+.meotxesatauri {
+	text-transform: capitalize;
+	font-family: 'Segoe UI2';
+	font-size: 36px;
+	float: left;
+	color: white;
+	margin-left: 140px;
+}
+.meotxebox {
+	background-color: #1E2147;
+	height: 42px;
+	width: 181px;
+	text-transform: uppercase;
+	color: white;
+	float: right;
+	margin-right: 140px;
+
+}
+.mexutesatauri {
+	font-size: 36px;
+	font-family: 'Segoe UI';
+	color: #7976FC;
+	text-align: center;
+}
+.mexutesataurisgaggrzeleba {
+	font-size: 16px;
+	font-family: 'Segoe UI';
+	color: #000000;
+	text-align: center;
+}
+.mexuteseqcia {
+	background-color: white;
+	height: 877px;
+}
+.surati1 {
+	width: 842px;
+	height: 616px;
+	display: block;
+	margin: auto;
+}
