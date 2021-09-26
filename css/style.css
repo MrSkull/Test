@@ -23,21 +23,21 @@ body {
 	color: #FFFFFF;
 }
 .hddiv {
-	display: inline-block;
+    float:right;
     margin-left: 140px;
-    margin-right: 139px;
-    margin-top: 18px;
+	vertical-align: middle;
+	border-radius: 57px;
     text-transform: uppercase;
     font-family: 'Segoe UI2';
     font-size: 20px;
+	text-align: center;
+	line-height:42px;
     background-color: #4CB5FF;
     width: 156px;
     height: 42px;
-    vertical-align: middle;
-    color: #FFFFFF;
-
-/*Body*/
+    color: #FFFFFF;	
 }
+/*Body*/
 .satauri {
 	font-family: 'Segoe UI';
 	font-size: 56px;
@@ -76,8 +76,11 @@ body {
 
 .getbox {
 	background-color: #1E2147;
+	border-radius: 57px;
 	float: left;
 	margin-left: 148px;
+	text-align: center;
+	line-height: 42px;
 	margin-top: 22px;
 	font-family: 'Segoe UI2';
 	color: #FFFFFF;
@@ -86,12 +89,10 @@ body {
 }
 .pirveliseqcia {
 	height: 390px;
+	padding: 10px;
 
 }
 .pirveli {
-	display: inline-block;
-}
-.2nd {
 	display: inline-block;
 }
 .meoresatauri {
@@ -167,6 +168,9 @@ body {
 }
 .meotxebox {
 	background-color: #1E2147;
+	border-radius: 57px;
+	line-height: 42px;
+	text-align: center;
 	height: 42px;
 	width: 181px;
 	text-transform: uppercase;
@@ -219,16 +223,21 @@ body {
 }
 .startour {
 	background-color: #1E2147;
+	font-family: 'Segoe UI2';
+	font-size: 20px;
+	border-radius: 57px;
+	line-height: 42px;
+	text-align: center;
+	text-transform: uppercase;
 	width: 181px;
 	height: 42px;
 	color: white;
-	font-family: 'Segoe UI2';
-	font-size: 20px;
 	float: right;
 	vertical-align: center;
 }
 .meshvideseqcia {
    background-color: white;
+   padding-bottom: 88px;
 }
 .meshvidetext {
 	font-family: 'Segoe UI';
@@ -248,12 +257,14 @@ body {
 	height: 698px;
 	margin-top: 51px;
 	margin: auto;
+	display:flex;
+    flex-wrap: wrap;
+	justify-content: space-between;
 
 }
-.serverbox {
+.severbox {
 	width: 270px;
 	height: 150px;
-	margin: 20px;
 
 }
 .webserver {
@@ -264,4 +275,112 @@ body {
 .webservertext {
 	font-family: 'Segoe UI2';
 	font-size: 16px;
+}
+.navigacia {
+	position: fixed;
+	background-color: #7791FB;
+	width: 100%;
+	z-index: 2;
+}
+.merveseqcia {
+    width: 100%;
+	height: 405px;
+	background-color: #7975FC;
+	position: relative;
+	z-index: 1;
+}
+.sysreq {
+	font-family: 'Segoe UI';
+	font-size: 36px;
+	color: #FFFFFF;
+	text-align: center;
+
+}
+.sysreqtxt {
+	font-family: 'Segoe UI';
+	font-size: 16px;
+	color: #FFFFFF;
+	text-align: center;
+}
+.line {
+	height: 121px;
+	width: 1px;
+	margin-left: 120px;
+	background-color: #FFFFFF;
+	display: inline-block;
+}
+.mervesataurebi {
+	font-family: 'Segoe UI';
+	font-size: 36px;
+	color: #FFFFFF;
+}
+.qvedamerve {
+	font-family: 'Segoe UI';
+	font-size: 16px;
+	color: #FFFFFF;
+}
+
+.merveganyofileba {
+	width: 1020px;
+	display: flex;
+	justify-content: space-between;
+}
+.saxli {
+	position: absolute;
+	top: 0px;
+    right: 0px;
+	bottom: 0px;
+	justify-content: right;
+}
+.boloseqcia {
+	background-color: white;
+	width: 100%;
+	height: 488px;
+
+}
+.lastheader {
+	font-family: 'Segoe UI';
+	font-size: 36px;
+	color: #7976FC;
+}
+
+.lastparagraph {
+	font-family: 'Segoe UI';
+	font-size: 16px;
+	color: #000000;
+}
+.lastblock {
+	float:right
+}
+.firstlastblock {
+	float: left;
+}
+.bolomshobeli {
+	padding-top: 87px;
+	padding-left: 139px;
+	padding-bottom: 18.8px;
+	padding-right: 139px;
+}
+.lastbuttons {
+	margin-top: 23px;
+	background-color: #7975FC;
+	width: 352px;
+	height: 42px;
+	border-radius: 144px;
+	font-family: 'Segoe UI2';
+	font-weight: bold;
+	font-size: 16px;
+	color: #FFFFFF;
+	line-height: 42px;
+	text-align: center;
+
+}
+.or {
+	font-family: 'Segoe UI';
+	font-size: 16px;
+	color: #000000;
+	margin-top: 40px;
+	margin-bottom: 40px;
+	margin-left: 170px
+
 }
