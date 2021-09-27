@@ -464,9 +464,8 @@ body {
 }
 .bigbuttonmsh {
 	float: right;
-    margin-left: 150px;
+	margin-right: 200px;
 	margin-bottom: 150px;
-	margin-right: 300px;
 	margin-top: 100px;
 }
 .bigbutton {
@@ -477,7 +476,4 @@ body {
 	text-align: center;
 
 	
-}
-.tryitfree {
-	margin: 0, auto;
 }
